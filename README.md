@@ -1,0 +1,3 @@
+- Es un código con lenguaje C++
+- Se utilizó en el framework Arduino IDE
+- Requiere de un SSID y Contraseña específica para poder inicializar y tomar datos de distancias en la página web
